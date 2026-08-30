@@ -1,21 +1,22 @@
 # Hi there, I'm Mohammad Hadi Afshar 👋
 
-### Java Backend Developer
+### ☕ Java Backend Developer
 
 I'm a Computer Engineering graduate focused on **Backend Development with Java and Spring Boot**.
 
-I enjoy building clean, maintainable and reliable backend applications, designing RESTful APIs, working with databases, and learning modern backend technologies.
+I enjoy building backend applications, designing RESTful APIs, working with relational databases, implementing authentication and authorization, and learning modern software architecture and development practices.
 
 ---
 
 ## 🧑‍💻 About Me
 
 * 🎓 Computer Engineering Graduate
-* ☕ Focused on **Java Backend Development**
-* 🌱 Currently improving my skills in **Spring Boot & Backend Architecture**
-* 🔐 Interested in authentication, authorization and secure REST APIs
-* 🧪 Interested in writing clean and testable code
-* 🚀 Currently building backend projects to strengthen my real-world experience
+* ☕ Focused on **Java & Spring Boot Backend Development**
+* 🌱 Currently improving my skills in **Spring Boot, Spring Security and Backend Architecture**
+* 🔐 Interested in Authentication, Authorization and Secure REST APIs
+* 🗄️ Experienced with relational databases and ORM technologies
+* 🧪 Interested in writing clean, maintainable and testable code
+* 🚀 Building real-world projects to improve my backend development skills
 
 ---
 
@@ -26,8 +27,8 @@ I enjoy building clean, maintainable and reliable backend applications, designin
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
 
 ### Frontend
@@ -52,68 +53,61 @@ I enjoy building clean, maintainable and reliable backend applications, designin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💬 Online Chat Application
+### 💬 Messenger App
 
-A real-time chat application currently under development.
+A full-stack real-time messaging application built with **Java, Spring Boot and React**.
 
-The backend is being developed with **Java and Spring Boot**, while the frontend is being built with **React**.
+The project focuses on backend development, secure authentication, RESTful APIs, WebSocket communication and PostgreSQL database integration.
 
 **Technologies:**
 
-`Java` `Spring Boot` `Spring Security` `REST API` `React` `PostgreSQL`
+`Java` `Spring Boot` `Spring Security` `JWT` `WebSocket` `JPA` `Hibernate` `PostgreSQL` `React`
 
-**Current Focus:**
+**Key Features:**
 
-* User authentication and authorization
-* User management
-* Real-time messaging
-* Chat rooms / conversations
-* RESTful API development
-* Backend architecture
-* Frontend integration
-* Secure communication between frontend and backend
+* 🔐 JWT-based authentication
+* 👤 User management
+* 💬 Messaging functionality
+* ⚡ Real-time communication using WebSocket
+* 🔒 Spring Security
+* 🌐 RESTful APIs
+* 🗄️ PostgreSQL database
+* 📦 JPA / Hibernate
+* 📎 File handling
 
-🔗 **Repository:** Coming soon
+🔗 [View Project](https://github.com/Hadi8190/messenger-app)
 
-> 🚧 This project is currently under active development.
+> 🚧 Currently under development
 
 ---
 
 ### 🛒 Online Shop
 
-A full-stack online shopping application with a **Java backend** and a traditional web frontend.
+A full-stack online shopping application with a **Java backend** and web-based frontend.
 
 **Backend:**
 
-`Java` `Spring Boot` `REST API`
+`Java` `Spring Boot`
 
 **Frontend:**
 
 `HTML` `CSS` `JavaScript`
 
-**Features:**
+The project focuses on backend development, database integration and communication between the frontend and backend.
 
-* Product management
-* Product listing
-* Shopping functionality
-* Backend REST APIs
-* Frontend-backend integration
-* Database management
-* Form validation
-
-🔗 **Repository:** [Online Shop Repository](#)
+🔗 **Repository:** Coming soon
 
 ---
 
 ### 🏨 Hotel Booking Website
 
-A full-stack hotel booking application developed with **Django** on the backend and **HTML/CSS** on the frontend.
+A full-stack hotel booking application developed with **Python/Django** on the backend and **HTML/CSS** on the frontend.
 
 **Backend:**
 
@@ -123,18 +117,9 @@ A full-stack hotel booking application developed with **Django** on the backend 
 
 `HTML` `CSS`
 
-**Features:**
+The project includes hotel and room management, booking functionality and database integration.
 
-* Hotel management
-* Room management
-* Hotel booking
-* User management
-* Database integration
-* Server-side application logic
-* Responsive web interface
-
-🔗 **Repository:** [Hotel Booking Repository](#)
-
+🔗 **Repository:** Coming soon
 
 ---
 
@@ -147,29 +132,29 @@ A full-stack hotel booking application developed with **Django** on the backend 
 * Database Design
 * Clean Code & SOLID Principles
 * Software Testing
+* WebSocket & Real-Time Applications
 * Microservices Architecture
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Goals
 
-* Build production-quality Java backend projects
-* Improve Spring Boot and Spring Security skills
-* Strengthen database and system design knowledge
-* Learn Redis and Kafka through practical projects
+* Build production-quality Java backend applications
+* Improve Spring Boot and Spring Security expertise
+* Strengthen database and system design skills
+* Learn and apply Redis and Kafka
 * Learn Docker and containerized application deployment
 * Contribute to open-source projects
-* Start my professional career as a **Java Backend Developer**
+* Grow as a professional **Java Backend Developer**
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:** [afsharhadi2002@gmail.com]
+💼 [LinkedIn](https://www.linkedin.com/in/hadi-afshar-4086422a1)
 
-💼 **LinkedIn:** (https://www.linkedin.com/in/hadi-afshar-4086422a1)
-
+🐙 [GitHub](https://github.com/Hadi8190)
 
 ---
 
-⭐ Feel free to explore my repositories and follow my journey as I grow as a Backend Developer.
+⭐ Thanks for visiting my profile!
